@@ -1,6 +1,8 @@
 # 👋 Salut, je suis @njacquet87
 👀 Je suis interessé par le dévellopement d'application
+
 🌱 Je suis actuellemnt en BUT1 informatique  
+
 📫 Vous pouvez me contatcter via noe.jacquet@etu.unilim.fr or noe.jacquet87@gmail.com
 
 <!---
