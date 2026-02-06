@@ -3,7 +3,7 @@
 🎓 Étudiant BUT Informatique à l'IUT du Limousin.
 Je suis titulaire d'un BAC spécialité Math et NSI depuis 2024 au lycée Raoul Dautry de Limoges.
 
-Je m'intéresse particulièrement au développement d'applications en générale.
+Je m'intéresse particulièrement au développement d'applications.
 
 ---
 
@@ -52,7 +52,7 @@ notions :
 ### Projets : 
 
 - SAE [1.01](https://github.com/njacquet87/S1.01) et [1.02](https://github.com/njacquet87/S1.02) : projet de mini jeu en python (équipe de 2)
-- SAE [1.03](https://github.com/njacquet87/S1.03) : instalation d'une machine virtuel et script bash pour une bibliothèque fictive (équipe de 2)
+- SAE [1.03](https://github.com/njacquet87/S1.03) : installation d'une machine virtuel et script bash pour une bibliothèque fictive (équipe de 2)
 - SAE [1.04](https://github.com/njacquet87/S1.04) : projet BDD (équipe de 2)
 - SAE [1.05](https://github.com/njacquet87/S1.05) : receuil de besoins pour une bibliothèque universitaire fictive (équipe de 2)
 
@@ -61,11 +61,16 @@ notions :
 - SAE 2.01 (développement d'une app) 2.02 (Éxploration algorithmique d'un problème) 2.06 (travail en équipe) : création d'un jeu de société Latice en java (équipe de 4)
 - SAE [2.03](https://github.com/njacquet87/S2.03) : création d'un réseau fictif avec kathara (équipe de 2)
 - SAE 2.04 : projet BDD (équipe de 2)
-- SAE [2.05](https://github.com/njacquet87/S2.05) : gestion de projet pour une agence immobilière fictive (équipe de )
+- SAE [2.05](https://github.com/njacquet87/S2.05) : gestion de projet pour une agence immobilière fictive (équipe de 2)
 
 <br>
 
 - SAE 3.01 : développement d'un ERP pour l'iut en java spring boot, vue.js et API REST (équipe de 6)
+
+<br>
+
+- Projet PHP : [Lacosina](https://github.com/njacquet87/Projet-Lacosina)
+- Projet Kotlin : [ToDoList](https://github.com/njacquet87/Projet-R4.11-ToDoList)
 ---
 ### A propos de moi : 
 
