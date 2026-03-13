@@ -1,9 +1,11 @@
 # 👋 Salut, je suis @njacquet87
 
-🎓 Étudiant BUT Informatique à l'IUT du Limousin.
+Étudiant BUT Informatique à l'IUT du Limousin.
 Je suis titulaire d'un BAC spécialité Math et NSI depuis 2024 au lycée Raoul Dautry de Limoges.
 
 Je m'intéresse particulièrement au développement d'applications.
+
+Vous pouvez consulter mon Portfolio [ici](https://njacquet87.github.io/Portfolio/)
 
 ---
 
@@ -17,6 +19,7 @@ Je m'intéresse particulièrement au développement d'applications.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 notions : 
 
@@ -25,6 +28,8 @@ notions :
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![RustCT](https://img.shields.io/badge/Rust-AAAAAA?logo=rust&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -32,7 +37,7 @@ notions :
 - IDE : VScode, Eclipse, IntelIJ
 - OS : windows, linux (base)
 - Figma, Canva, Miro
-- git
+- git, gitKraken
 - docker (notions)
 
 ---
@@ -42,7 +47,7 @@ notions :
 - Programmation Orienté Objet
 - Dévloppement web
 - Qualité de code / clean code / test unitaires
-- Base de données
+- Base de données (SQL, NoSQL)
 - Reseau
 - Cryptographie (notions)
 - Gestion de projet
@@ -76,6 +81,7 @@ notions :
 
 - J'aime lire de la science-fiction et de la fantaisie
 - Jouer au jeux vidéos
+- Écouter de la musique
 - Partir en voyage et aller au ciné
 
 ---
