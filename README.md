@@ -20,16 +20,32 @@ Vous pouvez consulter mon Portfolio [ici](https://njacquet87.github.io/Portfolio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 notions : 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![php](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![RustCT](https://img.shields.io/badge/Rust-AAAAAA?logo=rust&logoColor=white&style=for-the-badge)
+
+---
+
+### Stage de 2ème année de BUT
+
+Stage de 2ème année de BUT Informatique effectué du 7 avril au 12 juin 2026 chez Dotsafe, entreprise spécialisée dans le développement de solutions web en SaaS, située à Bordeaux. J'ai travaillé en tant que développeur Fullstack au sein d'une équipe de 3 développeurs sur deux projets : Youschoool, une plateforme de formation en ligne, et le site vitrine de Dotsafe.
+
+Sur Youschoool, j'ai développé une fonctionnalité de prise de rendez-vous entre élèves et professeurs via Google Calendar, en travaillant sur le back-office (Symfony/Twig) et le front-end (Angular), ainsi que sur l'API REST développée avec API Platform. J'ai aussi écrit des tests unitaires avec Vitest pour augmenter le coverage de 0% à 40%, et créé une modale de notification pour encourager les utilisateurs à poster leur première publication envoyée sur le front-end grâce à une commande symfony.
+
+Sur le site de Dotsafe, j'ai amélioré le score Agent Ready du site de 0 à 83 points en configurant le fichier robots.txt, un sitemap, la négociation de contenu en Markdown, un API catalog et des fichiers SKILL.md pour permettre aux agents IA de mieux comprendre le site.
+
+
+Rôle personnel :
+Développeur Fullstack intégré dans une équipe projet, travaillant en méthode agile Scrum avec des sprints de 2 semaines, des Daily et une gestion des tâches via ClickUp.
 
 ---
 
