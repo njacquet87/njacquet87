@@ -32,6 +32,7 @@ notions :
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![RustCT](https://img.shields.io/badge/Rust-AAAAAA?logo=rust&logoColor=white&style=for-the-badge)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-purple?style=for-the-badge)
 
 ---
 
