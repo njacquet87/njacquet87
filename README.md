@@ -93,6 +93,8 @@ Développeur Fullstack intégré dans une équipe projet, travaillant en méthod
 
 - Projet PHP : [Lacosina](https://github.com/njacquet87/Projet-Lacosina)
 - Projet Kotlin : [ToDoList](https://github.com/njacquet87/Projet-R4.11-ToDoList)
+- Projet Netflix Like : [Netflix](https://github.com/njacquet87/R4.10-Projet-Netflix)
+- Projet .NET MAUI : [Application .NET MAUI](https://github.com/njacquet87/R4.11_Projet_.NET_MAUI)
 ---
 ### A propos de moi : 
 
